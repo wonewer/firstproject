@@ -1,11 +1,5 @@
 <?php
-if(true){
-  if(true){
-    if(true){
-      if(true){
-        echo 'dfd';
-        echo '11';
-      }
-    }
-  }
-}
+/**
+* first
+*/
+$a = 0;

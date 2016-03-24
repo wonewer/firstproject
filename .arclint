@@ -1,7 +1,7 @@
 {
   "linters": {
-    "php": {
-      "type": "php",
+    "phpcs": {
+      "type": "phpcs",
        "include": "(\\.php$)"
     }
   }
